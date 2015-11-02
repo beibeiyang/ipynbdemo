@@ -1,2 +1,5 @@
-SOME DEMO FILES FOR JUPYTER NOTEBOOK
+JUPYTER NOTEBOOK DEMO
 
+rAssociationRules.ipynb - demo on Association Rules with Apriori
+
+rplot.ipynb - demo on R and ggplot2
